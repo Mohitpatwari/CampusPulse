@@ -1,5 +1,5 @@
 fastapi[standard]
 joblib
-scikit-learn
+scikit-learn==1.9.0
 pandas
 pydantic
